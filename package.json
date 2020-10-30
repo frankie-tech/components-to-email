@@ -5,6 +5,7 @@
 	"author": "frankie <26461046+frankiekie@users.noreply.github.com>",
 	"license": "MIT",
 	"devDependencies": {
-		"mjml": "^4.7.1"
+		"mjml": "^4.7.1",
+		"prettier": "^2.1.2"
 	}
 }
