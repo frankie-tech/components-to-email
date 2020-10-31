@@ -5,10 +5,9 @@
 	"author": "frankie <26461046+frankiekie@users.noreply.github.com>",
 	"license": "MIT",
 	"devDependencies": {
-		"prettier": "^2.1.2"
-	},
-	"dependencies": {
+		"htm": "^3.0.4",
 		"preact": "^10.5.5",
+		"prettier": "^2.1.2",
 		"preact-render-to-string": "^5.1.11"
 	}
 }
